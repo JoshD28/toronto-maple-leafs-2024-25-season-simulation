@@ -7,7 +7,7 @@ and **Monte Carlo simulation** to estimate season-level outcomes for an NHL team
 It simulated season outcomes to actual results to evaluate model behavior
 and uncertainty.
 
-##Goals
+## Goals
 1. **Estimate game-level win probabilities** using a Poisson model based on goals for and against.
 2. **Simulate full NHL seasons** using Monte Carlo methods.
 3. **Analyze the distributions of total wins and points** across simulated seasons.

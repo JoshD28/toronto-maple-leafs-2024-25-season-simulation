@@ -1,13 +1,13 @@
 # NHL Season Outcome Simulation
 
-This repository contains a course lab that uses a **Poisson-based win probability model**
+This repository contains a **Poisson-based win probability model**
 and **Monte Carlo simulation** to estimate season-level outcomes for an NHL team
 (Toronto Maple Leafs, 2024–25 season).
 
-The lab compares simulated season outcomes to actual results to evaluate model behavior
+It simulated season outcomes to actual results to evaluate model behavior
 and uncertainty.
 
-## Lab Goals
+##Goals
 1. **Estimate game-level win probabilities** using a Poisson model based on goals for and against.
 2. **Simulate full NHL seasons** using Monte Carlo methods.
 3. **Analyze the distributions of total wins and points** across simulated seasons.
@@ -50,5 +50,5 @@ and uncertainty.
 - seaborn
 
 ## Notes
-This lab models **season-level uncertainty**, not individual game prediction accuracy.
+This model displays **season-level uncertainty**, not individual game prediction accuracy.
 Simulated results represent probabilistic expectations rather than deterministic forecasts.
